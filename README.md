@@ -15,7 +15,7 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 - Misclassified Data can be another major issue, as not every fraudulent transaction is caught and reported
 - Adaptive techniques used against the model by the scammers
 
-## PROJECT WORKFLOW
+## Project Workflow
 - Importing all the necessary Libraries
 - Exploratory Data Analysis
 - Splitting the data into train and test data
@@ -24,7 +24,7 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 - Hyperparameter Tuning
 - Conclusion & Result
 
-## EXPLORATORY DATA ANALYSIS
+## Exploratory Data Analysis
 - Loading the Data
 - Understanding the Data
 - Handling the Imbalance in the Data
