@@ -31,8 +31,8 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 - Loading the Data
 - Understanding the Data
 - Handling the Imbalance in the Data
- - Only 0.17% fraudulent transaction out all the transactions. 
- - The data is highly Unbalanced.
+  - Only 0.17% fraudulent transaction out all the transactions. 
+  - The data is highly Unbalanced.
 - Training and Testing Data Bifurcation
 
 ## Logistic Regression Classifier
