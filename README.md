@@ -24,6 +24,9 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 - Hyperparameter Tuning
 - Conclusion & Result
 
+## Dataset used
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Exploratory Data Analysis
 - Loading the Data
 - Understanding the Data
