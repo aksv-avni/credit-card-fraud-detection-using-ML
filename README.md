@@ -40,6 +40,8 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 - Logistic Regression is a statistical method for analysing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable, where there are only two possible outcomes
 - The goal of logistic regression is to find the best fitting model to describe the relationship between the dichotomous characteristic of interest, and a set of independent variables
 - Logistic Regression generates the coefficients of a formula to predict a Logit Transformation of the probability of presence of the characteristic of interest
+- ![Screenshot from 2022-11-22 20-25-02](https://user-images.githubusercontent.com/71398237/203345948-a14b9c3b-2547-4bd9-8b33-9f786dce926a.png)
+
 
 ## Conclusion
 - The highly imbalanced dataset is sampled in a hybrid approach where the positive class is oversampled and the negative class under-sampled, achieving two sets of data distributions
