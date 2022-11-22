@@ -40,7 +40,7 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 
 ## Conclusion
 - The highly imbalanced dataset is sampled in a hybrid approach where the positive class is oversampled and the negative class under-sampled, achieving two sets of data distributions
-- The highly imbalanced dataset is sampled in a hybrid approach where the positive class is oversampled and the negative class under-sampled, achieving two sets of data distributions
+- Results from the experiment shows that the Logistic Regression produces around 91-93% accuracy in the data distribution
  
 
 
